@@ -1,0 +1,41 @@
+{
+  "streams": [
+    {
+      "title": "MyStream",
+      "description": "My first stream",
+      "id": 1
+    },
+    {
+      "title": "MyStream",
+      "description": "My first stream",
+      "id": 2
+    },
+    {
+      "title": "Another stream",
+      "description": "one more stream",
+      "id": 3
+    },
+    {
+      "title": "Auth stream but really",
+      "description": "Created with my auth not like the other one",
+      "id": 5
+    },
+    {
+      "title": "signed in stream",
+      "description": "stream for signed in",
+      "id": 6
+    },
+    {
+      "title": "programmatic stream",
+      "description": "return to main page",
+      "userId": "114030221853821553767",
+      "id": 8
+    },
+    {
+      "title": "Componenent reuse edited",
+      "description": "reusing stream create now and was editted ",
+      "userId": "114030221853821553767",
+      "id": 9
+    }
+  ]
+}
